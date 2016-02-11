@@ -13,9 +13,9 @@ threesus <- function(ft_per, attempts){
      # prob
 }
 
-threesus(94,"ten")
-threesus(101,10)
-threesus(.94,10)
-threesus(94,10)
-threesus(90,10)
+threesus(94,"ten")  
+threesus(101,10)  
+threesus(.94,10)  
+threesus(94,10)  
+threesus(90,10)  
 threesus(99,10)
