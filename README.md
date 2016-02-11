@@ -1,0 +1,1 @@
+This is a test project to see if we can successfully publish a project (or at least some code snippets) on GitHub via SkillZone
