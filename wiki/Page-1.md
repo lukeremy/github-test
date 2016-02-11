@@ -1,3 +1,5 @@
+## luke made edit locally 5:45pm 2/10/16
+
 threesus <- function(ft_per, attempts){
 
      if(ft_per < 0 | ft_per > 100) stop ("Please enter a valid number for free throw percentage")
